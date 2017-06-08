@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28078" started-at="2017-06-06T05:06:52Z" finished-at="2017-06-06T05:07:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28078" started-at="2017-06-06T05:06:52Z" finished-at="2017-06-06T05:07:20Z">
+      <class name="com.qtpselenium.core.hybrid.testecases.Gmail_Test">
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:com.qtpselenium.core.hybrid.testecases.Gmail_Test@4461c7e3]" name="doLogin" duration-ms="26657" started-at="2017-06-06T10:36:52Z" finished-at="2017-06-06T10:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.qtpselenium.core.hybrid.testecases.Gmail_Test@4461c7e3]" name="quit" is-config="true" duration-ms="1399" started-at="2017-06-06T10:37:18Z" finished-at="2017-06-06T10:37:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.qtpselenium.core.hybrid.testecases.Gmail_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
